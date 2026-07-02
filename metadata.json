@@ -1,0 +1,6 @@
+{
+  "name": "Find the Differences",
+  "description": "An interactive, colorful, and child-friendly Find the Differences game featuring vibrant vector scenes, dynamic sound effects, hints, stars, and unlockable levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
